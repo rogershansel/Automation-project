@@ -1,0 +1,10 @@
+/Users/rogershansel/automation/AutomationFramework/src/main/java/base/BaseTest.java
+/Users/rogershansel/automation/AutomationFramework/src/main/java/com/company/automation/App.java
+/Users/rogershansel/automation/AutomationFramework/src/main/java/constants/FrameworkConstants.java
+/Users/rogershansel/automation/AutomationFramework/src/main/java/pages/HomePage.java
+/Users/rogershansel/automation/AutomationFramework/src/main/java/pages/LoginPage.java
+/Users/rogershansel/automation/AutomationFramework/src/main/java/utilities/ConfigReader.java
+/Users/rogershansel/automation/AutomationFramework/src/main/java/utilities/ExtentManager.java
+/Users/rogershansel/automation/AutomationFramework/src/main/java/utilities/ExtentTestManager.java
+/Users/rogershansel/automation/AutomationFramework/src/main/java/utilities/ScreenshotUtil.java
+/Users/rogershansel/automation/AutomationFramework/src/main/java/utilities/TestListener.java
